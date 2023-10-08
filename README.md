@@ -17,6 +17,14 @@
 9. Create database wenny
 10. Select database wenny
 
+# Azure instance
+1. Search "Azure Database for MySQL flexible server"
+2. Create new called "504class"
+3. Under "Networking" "Allow All" for firewall
+4. On SQL workbench, create new connection "504wk4azure"
+5. Test connection and create new database in workbench 
+
+
 # ERD
 11. Create new query and paste code
 12. Click on "database" and then "reverse engineer" 
