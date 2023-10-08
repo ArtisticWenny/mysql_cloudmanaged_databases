@@ -7,8 +7,6 @@
 3. Create SQL instance 
 4. Name instance and create password
 5. Allow all for networking
-   
-![GCP Command 2](images/CloudInstanceHomepage.png)
 
 # SQL Workbench
 6. Save changes and open my SQL workbench
