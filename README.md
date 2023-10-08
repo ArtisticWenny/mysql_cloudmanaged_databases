@@ -27,4 +27,3 @@
 # Trouble Shooting
 - I had to delete my first instance and recreate a new one
 - When creating a new database, I got a syntax error even though it was spelt properly
-- 
